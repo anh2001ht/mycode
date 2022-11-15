@@ -19,6 +19,7 @@ namespace ConsoleApp2
             Console.WriteLine($"Tôi tên là {name}");
             Console.WriteLine($"Năm nay tôi {age} tuổi");
             Console.ReadKey();
+            //123
         }
     }
 }
