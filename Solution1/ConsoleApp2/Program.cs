@@ -13,7 +13,6 @@ namespace ConsoleApp2
             Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine("Nhập tên: ");
-            
             string name =Console.ReadLine();
             Console.WriteLine("Nhập tuổi: ");
             int age =Convert.ToInt32(Console.ReadLine());
