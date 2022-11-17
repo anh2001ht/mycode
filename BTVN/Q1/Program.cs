@@ -1,6 +1,6 @@
 ﻿internal class Program
 {
-    private static void Main(string[] args)
+    public static void Main(string[] args)
     {
         int[] arr = new int[] { 2, 3, 1, 5, 4, 6, 8, 20, 14 };
         int min = arr[0];
@@ -14,9 +14,15 @@
                 }
             }
         }
-        findMin(arr, ref min);
-        Console.WriteLine(min);
+        if (arr.Length==0)
+        {
+            Console.WriteLine("Array is null");
+        } else
+        {
+            findMin(arr, ref min);
+            Console.WriteLine(min);
+        }
+       
         Console.ReadKey();
-        //123
     }
 }
