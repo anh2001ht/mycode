@@ -49,3 +49,5 @@ C:\Users\ADMIN\source\repos\TestAdapter\WPF_Pets\obj\Debug\net6.0-windows\refint
 C:\Users\ADMIN\source\repos\TestAdapter\WPF_Pets\obj\Debug\net6.0-windows\WPF_Pets.pdb
 C:\Users\ADMIN\source\repos\TestAdapter\WPF_Pets\obj\Debug\net6.0-windows\WPF_Pets.genruntimeconfig.cache
 C:\Users\ADMIN\source\repos\TestAdapter\WPF_Pets\obj\Debug\net6.0-windows\ref\WPF_Pets.dll
+C:\Users\ADMIN\source\repos\TestAdapter\WPF_Pets\obj\Debug\net6.0-windows\Adding.g.cs
+C:\Users\ADMIN\source\repos\TestAdapter\WPF_Pets\obj\Debug\net6.0-windows\Adding.baml

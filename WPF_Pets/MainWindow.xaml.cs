@@ -103,5 +103,11 @@ namespace WPF_Pets
         {
 
         }
+
+        private void btnAdd_Click(object sender, RoutedEventArgs e)
+        {
+            Adding addFrm = new Adding();
+            addFrm.Show();
+        }
     }
 }
